@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 2 (Code Pipeline)
 
 1. The API that must be used for the forward and reverse geocoding must be taken from [postion-stack](https://positionstack.com/)
 2. Caching keys and names format :
